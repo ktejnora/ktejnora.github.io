@@ -1,0 +1,11 @@
+# Site settings
+title: Karel Tejnora
+email: kareltejnora@gmail.com
+description: > # Seasoned developer.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ktejnora.github.io" # the base hostname & protocol for your site
+twitter_username: ktejnora
+github_username:  ktejnora
+
+# Build settings
+markdown: kramdown
